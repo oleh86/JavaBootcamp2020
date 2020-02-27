@@ -6,6 +6,6 @@ public class HelloWorld {
         System.out.println("Hello Bootcampers! " +
                 "\nWelcome to the Java course!"
                 +
-                "\nI love You!");
+                "\nHi Oleh. You are now a Java guru!!!");
     }
 }

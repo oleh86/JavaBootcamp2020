@@ -46,4 +46,15 @@ public class Person_I {
 		System.out.println("Inside Person Class");
 	}
 
+	public void setSalary(String s) {
+	}
+
+	public void setTitle(String developer) {
+	}
+
+	public String getTitle() {
+	}
+
+	public double getSalary() {
+	}
 }
